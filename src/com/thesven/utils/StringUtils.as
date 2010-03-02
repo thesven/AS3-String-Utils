@@ -1,9 +1,9 @@
-package com.thesven.formvalidation {
+package com.thesven.utils {
 
 	/**
 	 * @author mikesven
 	 */
-	public class FormValidation {
+	public class StringUtils {
 	
 		/**
 		 * Checks to see if the input string is not empty
